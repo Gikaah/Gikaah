@@ -12,7 +12,7 @@
  **Aqui é meu Git Hub!!**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Gmail](https://img.shields.io/badge/Email-BF5B6E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giannavictoriamorais.silva@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-BF5B6E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovannavictoriamorais.silva@gmail.com)
 
 </div>
 
